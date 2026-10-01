@@ -12,6 +12,7 @@ A Saga Lua explora a origem das sociedades, a transmissão do conhecimento, a vi
 - [`mundo/`](mundo/) — territórios, culturas, ambientes e mitologias.
 - [`capitulos/`](capitulos/) — manuscrito em desenvolvimento.
 - [`experimentos/`](experimentos/) — possibilidades narrativas ainda não incorporadas ao cânone.
+- [`referencias/filmes-pre-historia.md`](referencias/filmes-pre-historia.md) — referências cinematográficas para linguagem e construção de mundo.
 - [`logs/`](logs/) — decisões, alterações e evolução do projeto.
 
 ## Convenção de status
