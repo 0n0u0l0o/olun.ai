@@ -2,6 +2,10 @@
 
 Este diretório reúne cenas, personagens, conflitos, estruturas temporais e caminhos alternativos ainda não incorporados ao cânone.
 
+## Experimentos disponíveis
+
+- [`escrita-colaborativa-01.md`](escrita-colaborativa-01.md) — duas pessoas constroem uma história oral sem conhecer seu destino.
+
 Uma proposta experimental pode ser aproveitada, modificada, arquivada ou descartada. Nenhuma delas altera `canon/` silenciosamente.
 
 ## Modelo para novos experimentos
