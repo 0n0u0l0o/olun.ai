@@ -5,5 +5,6 @@
 - [`pesquisa-temas-relacionados-2026-10-02.md`](pesquisa-temas-relacionados-2026-10-02.md) — atualização sobre ambientes costeiros, dispersão sul-americana, megafauna e adaptação generalista.
 - [`pesquisa-temas-relacionados-2026-10-03.md`](pesquisa-temas-relacionados-2026-10-03.md) — atualização sobre fogo, abrigo, cuidado, práticas funerárias e transmissão de informação.
 - [`pesquisa-temas-relacionados-2026-10-05.md`](pesquisa-temas-relacionados-2026-10-05.md) — atualização sobre linguagem, adornos, música, infância e identidade social.
+- [`pesquisa-temas-relacionados-2026-10-08.md`](pesquisa-temas-relacionados-2026-10-08.md) — atualização sobre migração, doença, mobilidade, tecnologia lítica e relações com animais.
 
 As referências externas não alteram automaticamente o cânone. Inferências narrativas derivadas delas devem permanecer identificadas como propostas ou experimentos até aprovação do autor.
