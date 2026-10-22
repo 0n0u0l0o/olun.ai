@@ -7,5 +7,6 @@
 - [`pesquisa-temas-relacionados-2026-10-05.md`](pesquisa-temas-relacionados-2026-10-05.md) — atualização sobre linguagem, adornos, música, infância e identidade social.
 - [`pesquisa-temas-relacionados-2026-10-08.md`](pesquisa-temas-relacionados-2026-10-08.md) — atualização sobre migração, doença, mobilidade, tecnologia lítica e relações com animais.
 - [`pesquisa-temas-relacionados-2026-10-15.md`](pesquisa-temas-relacionados-2026-10-15.md) — atualização sobre plantas, cuidado, violência, sazonalidade e memória territorial.
+- [`pesquisa-temas-relacionados-2026-10-22.md`](pesquisa-temas-relacionados-2026-10-22.md) — atualização sobre Lua, fibras, troca, redes sociais, orientação e armazenamento de alimentos.
 
 As referências externas não alteram automaticamente o cânone. Inferências narrativas derivadas delas devem permanecer identificadas como propostas ou experimentos até aprovação do autor.
