@@ -9,5 +9,6 @@
 - [`pesquisa-temas-relacionados-2026-10-15.md`](pesquisa-temas-relacionados-2026-10-15.md) — atualização sobre plantas, cuidado, violência, sazonalidade e memória territorial.
 - [`pesquisa-temas-relacionados-2026-10-22.md`](pesquisa-temas-relacionados-2026-10-22.md) — atualização sobre Lua, fibras, troca, redes sociais, orientação e armazenamento de alimentos.
 - [`pesquisa-temas-relacionados-2026-10-29.md`](pesquisa-temas-relacionados-2026-10-29.md) — atualização sobre paisagens sensoriais, sonhos, rituais, arte corporal, astronomia e encontros coletivos.
+- [`pesquisa-temas-relacionados-2026-11-05.md`](pesquisa-temas-relacionados-2026-11-05.md) — atualização sobre conhecimento ecológico, animais, rios, Amazônia, adaptação climática e decisão coletiva.
 
 As referências externas não alteram automaticamente o cânone. Inferências narrativas derivadas delas devem permanecer identificadas como propostas ou experimentos até aprovação do autor.
